@@ -66,5 +66,4 @@ mvn spring-boot:run
 ```
 
 ## Author
-
-Swarupa Deshpande
+Swarupa
